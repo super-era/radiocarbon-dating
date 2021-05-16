@@ -49,7 +49,7 @@ def calculate_age_in_CE(time_in_years):
     if common_era_year < 0:
         str_common_era_year = str(-common_era_year) + " BCE"
     else:
-        str_common_era_year = str(common_era_year - 1) + " CE"      # minus 1 because there is no 0CE
+        str_common_era_year = str(common_era_year + 1) + " CE"      # plus 1 because there is no 0CE
     return str_common_era_year
 
 
