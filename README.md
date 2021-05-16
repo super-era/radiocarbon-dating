@@ -21,6 +21,7 @@ to initialise the project, and follow the terminal prompts to use this program.
 
 ## Change log
 04/05/2021 - first draft uploaded to github.
+
 16/05/2021 - corrected for the absence of the 'zero' year in BC/BCE format, and added some encapsulation
 
 
